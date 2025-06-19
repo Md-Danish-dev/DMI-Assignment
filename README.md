@@ -1,4 +1,4 @@
-# DMI Hero Section Assignment
+# DMI-Assignment
 
 ## 🔥 Features
 
