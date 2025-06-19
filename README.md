@@ -28,4 +28,4 @@ npm run dev
 
 ---
 
-> Built with ❤️ as part of the “Recreate a Visionary Hero Section” assignment.
+> Built with ❤️ as part of the “Visionary Hero Section” assignment.
